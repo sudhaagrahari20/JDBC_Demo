@@ -1,4 +1,4 @@
-package in.sp.delete;
+package in.jdbc.test;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
